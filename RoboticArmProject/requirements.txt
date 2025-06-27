@@ -1,0 +1,6 @@
+pygame
+numpy
+numpy
+gymnasium
+pygame
+stable-baselines3[extra]
